@@ -1,2 +1,2 @@
-# Datastructures-Python
-singlelinkedlist, Doublelinkedlist, Binarysearchtree
+# DataStructures(Python)
+ singlelinkedlist, Doublelinkedlist, Binarysearchtree
